@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[『RIVER』]]></title>
+  <subtitle><![CDATA[众里寻它千百度 『 IS ME 』]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://riveris.me/"/>
+  <updated>2015-04-26T02:00:59.000Z</updated>
+  <id>http://riveris.me/</id>
+  
+  <author>
+    <name><![CDATA[River]]></name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Not Hello World]]></title>
+    <link href="http://riveris.me/2015/04/01/not-hello-world/"/>
+    <id>http://riveris.me/2015/04/01/not-hello-world/</id>
+    <published>2015-04-01T00:29:12.000Z</published>
+    <updated>2015-04-26T02:00:59.000Z</updated>
+    <content type="html"><![CDATA[<p>今天是个好日子，『<a href="http://zh.wikipedia.org/wiki/%E6%84%9A%E4%BA%BA%E8%8A%82" target="_blank" rel="external">愚人节</a>』，也是该站诞生日🌏。</p>
+<h2 id="问候语">问候语</h2><h3 id="中文">中文</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ <span class="built_in">echo</span> <span class="string">"你好，世界"</span></span><br></pre></td></tr></table></figure>
+<h3 id="英文">英文</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ <span class="built_in">echo</span> <span class="string">"Hello World"</span></span><br></pre></td></tr></table></figure>
+<h3 id="日文">日文</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ <span class="built_in">echo</span> <span class="string">"こんにちは世界"</span></span><br></pre></td></tr></table></figure>
+<h3 id="韩语">韩语</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ <span class="built_in">echo</span> <span class="string">"안녕하세요, 세계"</span></span><br></pre></td></tr></table></figure>
+<a id="more"></a>
+<h3 id="俄文">俄文</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ <span class="built_in">echo</span> <span class="string">"Привет мир"</span></span><br></pre></td></tr></table></figure>
+<h3 id="法文">法文</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ <span class="built_in">echo</span> <span class="string">"bonjour le monde"</span></span><br></pre></td></tr></table></figure>
+<h3 id="杂文">杂文</h3><p><a href="http://fanyi.baidu.com/#en/zh/hello%20world" target="_blank" rel="external">点我 自己玩</a></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>今天是个好日子，『<a href="http://zh.wikipedia.org/wiki/%E6%84%9A%E4%BA%BA%E8%8A%82">愚人节</a>』，也是该站诞生日🌏。</p>
+<h2 id="问候语">问候语</h2><h3 id="中文">中文</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ <span class="built_in">echo</span> <span class="string">"你好，世界"</span></span><br></pre></td></tr></table></figure>
+<h3 id="英文">英文</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ <span class="built_in">echo</span> <span class="string">"Hello World"</span></span><br></pre></td></tr></table></figure>
+<h3 id="日文">日文</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ <span class="built_in">echo</span> <span class="string">"こんにちは世界"</span></span><br></pre></td></tr></table></figure>
+<h3 id="韩语">韩语</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ <span class="built_in">echo</span> <span class="string">"안녕하세요, 세계"</span></span><br></pre></td></tr></table></figure>]]>
+    
+    </summary>
+    
+      <category term="杂文" scheme="http://riveris.me/tags/%E6%9D%82%E6%96%87/"/>
+    
+  </entry>
+  
+</feed>
